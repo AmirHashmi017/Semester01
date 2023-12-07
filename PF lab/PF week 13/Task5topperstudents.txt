@@ -1,0 +1,4 @@
+Name: Smith
+Admission Number: 421
+Percentage: 65
+

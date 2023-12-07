@@ -1,0 +1,12 @@
+Name: A
+Age: 1
+Matric marks: 2
+Fsc marks: 3
+Ecat marks: 4
+
+Name: Amir
+Age: 1
+Matric marks: 2
+Fsc marks: 3
+Ecat marks: 4
+
